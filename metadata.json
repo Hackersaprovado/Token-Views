@@ -1,0 +1,15 @@
+{
+  "name": "TERMUX",
+  "symbol": "TRMX",
+  "description": "Meu token criado no Termux! 🚀",
+  "image": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
