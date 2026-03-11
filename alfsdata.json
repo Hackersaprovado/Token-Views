@@ -1,27 +1,18 @@
 {
-  "nome": "ALF FS",
-  "simbolo": "ALFS",
-  "descricao": "THIS A ALFS",
-  "mint": "BrQTa6hBRu1RbVFGYkjNtN53WzjfLps5wpYnEqGnMLAU",
-  "conta": "GjYaW1y3C5uQTywAytHAdkKmpnmk4h8UChVrF2RXcTe2",
-  "decimais": 9,
-  "supply": 10000000,
-  "rede": "devnet",
-  "criado": "2026-03-11T16:22:08.399Z",
-  "redes_sociais": {
-    "website": "",
-    "twitter": "https://x.com/alienfsociety",
-    "telegram": "https://t.me/alienfsociety"
-  },
-  "imagem": "",
-  "explorer": "https://explorer.solana.com/address/BrQTa6hBRu1RbVFGYkjNtN53WzjfLps5wpYnEqGnMLAU?cluster=devnet",
-  "github_metadata_url": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/dev.png",
-  "historico_transacoes": [],
-  "mintagens": [
-    {
-      "data": "2026-03-11T16:22:08.399Z",
-      "quantidade": 10000000,
-      "tipo": "criação"
-    }
-  ]
+  "name": "ALIEN FS",
+  "symbol": "ALFS",
+  "description": "Alien FS Token",
+  "image": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/dev.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/dev.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
 }
