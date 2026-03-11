@@ -1,0 +1,18 @@
+{
+  "name": "SHAKIL BANA",
+  "symbol": "SKBN",
+  "description": "Shakil Bana Token",
+  "image": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/holder.jpeg",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/holder.jpeg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
