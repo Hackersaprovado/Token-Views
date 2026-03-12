@@ -1,18 +1,44 @@
 {
   "name": "YUMBIRE",
   "symbol": "YMBR",
-  "description": "Yumbire Token",
-  "image": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/holder.jpeg",
-  "external_url": "",
-  "attributes": [],
+  "description": "🌍 YUMBIRE - A primeira criptomoeda comunitária da África. Junte-se à revolução financeira com transações instantâneas e taxas zero na Solana.",
+  
+  "image": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/logo.png",
+  
+  "external_url": "https://yumbire.com",
+  
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Supply", "value": "1,000,000 YMBR" },
+    { "trait_type": "Decimais", "value": "9" },
+    { "trait_type": "Mint Authority", "value": "✅ Revogado" },
+    { "trait_type": "Freeze Authority", "value": "✅ Revogado" },
+    { "trait_type": "Criado por", "value": "@Hackersaprovado" },
+    { "trait_type": "Ano", "value": "2026" },
+    { "trait_type": "Categoria", "value": "Comunidade" }
+  ],
+  
+  "extensions": {
+    "website": "https://yumbire.com",
+    "twitter": "https://x.com/yumbire",
+    "telegram": "https://t.me/yumbire",
+    "discord": "https://discord.gg/yumbire",
+    "medium": "https://medium.com/@yumbire",
+    "github": "https://github.com/Hackersaprovado/yumbire-token"
+  },
+  
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/holder.jpeg",
+        "uri": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/logo.png",
         "type": "image/png"
       }
     ],
-    "category": "image",
-    "creators": []
+    "creators": [
+      {
+        "address": "2sGox6B9yuEiKBkKwmd8YtigGh2wsZyYnrKaJzbs2dgU",
+        "share": 100
+      }
+    ]
   }
 }
