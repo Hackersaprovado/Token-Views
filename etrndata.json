@@ -1,0 +1,18 @@
+{
+  "name": "EITHAN YURAN",
+  "symbol": "ETRN",
+  "description": "YURSN",
+  "image": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/alienfsociety.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/alienfsociety.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
