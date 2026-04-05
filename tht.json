@@ -1,0 +1,22 @@
+{
+  "name": "Thats Good 😊",
+  "symbol": "THT",
+  "description": "Yumbire Token",
+  "image": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/logo.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hackersaprovado/Token-Views/refs/heads/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+      "name": "Alienfsociety",
+      }
+    ],
+  }
+}
